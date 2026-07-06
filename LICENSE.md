@@ -12,4 +12,4 @@ __________
 
 Original creators, attribution, and source links are maintained in the Telegram community:
 
-[https://t.me/your_telegram_channel](https://t.me/uni_chat_verse/8487)
+https://t.me/uni_chat_verse/8487
